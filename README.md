@@ -80,4 +80,7 @@ Java Hibernate --
  RMI (Remote Method Invocation) --
  Java Swing
 
+# Conclusion
+Ce projet de gestion des salles et machines, avec Hibernate, RMI et Java Swing, simplifie la réservation des ressources. Son interface conviviale, la persistance des données via Hibernate, et la communication fluide grâce à RMI en font une solution précieuse pour l'optimisation des opérations.
+
 
