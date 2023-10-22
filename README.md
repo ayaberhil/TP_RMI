@@ -1,4 +1,7 @@
 # TP_RMI
+
+Ajout d'une Machine
+
 ![2023-10-22](https://github.com/ayaberhil/TP_RMI/assets/147451152/ee0d7485-e06b-49df-a80e-622d79e1e30d)
 
 ![2023-10-22 (1)](https://github.com/ayaberhil/TP_RMI/assets/147451152/bd615433-5c7d-4518-91de-eac526a8a47c)
