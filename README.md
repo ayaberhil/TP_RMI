@@ -76,8 +76,8 @@ Le projet suivant est un projet de gestion des salles et des machines, une appli
 
 
 # Technologies Utilisées 
-Java Hibernate
-RMI (Remote Method Invocation)
-Java Swing
+Java Hibernate --
+ RMI (Remote Method Invocation) --
+ Java Swing
 
 
