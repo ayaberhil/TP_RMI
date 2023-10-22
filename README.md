@@ -1,4 +1,5 @@
-# TP_RMI
+# Présentation du projet
+Le projet suivant est un projet de gestion des salles et des machines, une application Java qui combine les technologies Hibernate, RMI (Remote Method Invocation), et Java Swing pour offrir une solution complète de gestion des ressources dans un environnement d'entreprise ou éducatif.
 
 # Ajout d'une Machine
 
