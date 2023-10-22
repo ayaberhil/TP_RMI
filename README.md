@@ -72,3 +72,12 @@ Le projet suivant est un projet de gestion des salles et des machines, une appli
 ![2023-10-22 (20)](https://github.com/ayaberhil/TP_RMI/assets/147451152/daef499b-303d-4948-86cc-4b5919fdf80d)
 
 ![2023-10-22 (21)](https://github.com/ayaberhil/TP_RMI/assets/147451152/200d93ad-3fc5-4135-956c-c11875634ebc)
+
+
+
+# Technologies Utilisées 
+Java Hibernate
+RMI (Remote Method Invocation)
+Java Swing
+
+
